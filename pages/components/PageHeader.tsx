@@ -1,4 +1,5 @@
 import Head from "next/head";
+console.log('load header');
 
 function PageHeader(){
     return(
